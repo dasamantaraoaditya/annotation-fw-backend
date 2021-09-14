@@ -2,6 +2,10 @@
 
 To setup the flask project follow the below steps:
 
+## Prerequisites
+Install a version of Python 3.
+Install VS code or Pycharm
+
 ## setup venv
 #### Linux
 sudo apt-get install python3-venv    # If needed
